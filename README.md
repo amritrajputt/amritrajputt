@@ -6,30 +6,18 @@
 </a>
 </p>
 
-<img align="right" alt = "Coding" width="400" src="./util/JXA0.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amritrajutt&label=Profile%20views&color=0e75b6&style=flat" alt="amritrajutt" /> </p>
-<p align="left"> <a href="https://twitter.com/amrit_xrajput" target="blank"><img src="https://img.shields.io/twitter/follow/amrit_xrajput?logo=twitter&style=for-the-badge" alt="amritrajutt" /></a> </p>
-
-
-
-<div><p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amritrajutt&show_icons=true&locale=en&layout=compact&theme=dark" alt="amritrajutt" />
-</p>
-  <div/>
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=amritrajputt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
     <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-  <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amritrajutt&show_icons=true&locale=en&theme=dark" alt="amritrajutt" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amritrajputt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
+
+
+
+ 
     
-<br/>
-<br/>
-<br/>
-<br/>
+
 <br/>
 <div>
 <h3 align="left"> Language and Tools:</h3>
