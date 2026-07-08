@@ -8,7 +8,7 @@
 ## 🚀 About Me  
 🎓 Final year Computer Science Student | 🧑‍💻 Full Stack Developer 
 
-- 🌱 Currently learning **MERN + DevOps + Gen AI**  
+- 🌱 **MERN + DevOps + Gen AI**  
 - 💡 Passionate about **building AI powered and scalable web apps**  
 - 🎯 Goal: **Land my first internship or full-time offer in 2026 !**  
 
