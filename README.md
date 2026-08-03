@@ -18,7 +18,7 @@
 
 <p align="center">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=js,typescript,react,reactnative,nodejs,express,mongodb,postgresql,java,python,html,css,tailwind,bootstrap" height="50" />
+  <img src="https://skillicons.dev/icons?i=js,typescript,react,nodejs,express,mongodb,postgresql,java,python,html,css,tailwind,bootstrap" height="50" />
   <br/>
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" height="50" />
