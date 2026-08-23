@@ -35,10 +35,13 @@
 
 <br/>
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amritrajputt&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amritrajputt&theme=tokyonight" height="170" />
+  <img height="170em" src="https://github-readme-stats-one-bice.vercel.app/api?username=amritrajputt&show_icons=true&theme=transparent&hide_border=true&title_color=38C2FF&text_color=BDC3CF&icon_color=38C2FF&count_private=true&include_all_commits=true" alt="GitHub stats"/>
+  <img height="170em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=amritrajputt&layout=compact&theme=transparent&hide_border=true&title_color=38C2FF&text_color=BDC3CF&card_width=445" alt="top languages"/>
 </p>
+
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amritrajputt&theme=tokyo-night" />
